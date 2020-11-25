@@ -1,4 +1,4 @@
-# Has Many Through Relationships
+ # Has Many Through Relationships
 
 ## Objectives
 
